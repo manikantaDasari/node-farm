@@ -1,0 +1,1 @@
+This Text file is created by nodeJs writeFile module
